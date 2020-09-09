@@ -2,12 +2,14 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-[![Open Model Code in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaahirG/DepthDataApplication/blob/master/DepthCNN.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaahirG/DepthDataApplication/blob/master/DepthCNN.ipynb)
 
 ## Architecture
 To make the application easy to use, and start right when the TX2/Xavier is powered on, I used a service file(.service) that runs a script (.sh) that initiates the recording application (./recording.out) upon start up.
 
 ### Quick Start
+**--> Open the depth analysis Convolutional Neural Network in COLAB!
+
 **--> clone repo**
 
 **--> cmake . (generates the makefile w.r.t your computer)**
