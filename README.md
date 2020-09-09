@@ -8,7 +8,7 @@
 To make the application easy to use, and start right when the TX2/Xavier is powered on, I used a service file(.service) that runs a script (.sh) that initiates the recording application (./recording.out) upon start up.
 
 ### Quick Start
-**--> Open the depth analysis CNN based model in COLAB! **
+**--> Open the depth analysis CNN based model in COLAB!**
 
 **--> clone repo**
 
