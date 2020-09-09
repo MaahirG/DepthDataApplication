@@ -1,8 +1,8 @@
-# Realsense Depth Data Recording Pipeline
+# Realsense Depth Data Recording + Analysis Application
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaahirG/DepthDataApplication/blob/master/DepthCNN.ipynb)
 
-## Architecture
+## Collection Pipeline Architecture
 To make the application easy to use, and start right when the TX2/Xavier is powered on, I used a service file(.service) that runs a script (.sh) that initiates the recording application (./recording.out) upon start up.
 
 ### Quick Start
