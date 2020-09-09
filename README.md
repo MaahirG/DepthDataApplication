@@ -1,4 +1,4 @@
-# Realsense Depth Data Recording + Analysis Application
+# Depth Data Collection + Analysis Application
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaahirG/DepthDataApplication/blob/master/DepthCNN.ipynb)
 
