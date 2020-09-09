@@ -5,9 +5,9 @@
 ## Collection Pipeline Architecture
 To make the application easy to use, and start right when the TX2/Xavier is powered on, I used a service file(.service) that runs a script (.sh) that initiates the recording application (./recording.out) upon start up.
 
-### Quick Start
-**--> Open the depth analysis CNN based model in COLAB!**
+## Open Colab for depth analysis - CNN based model
 
+### Quick Start
 **--> clone repo**
 
 **--> cmake . (generates the makefile w.r.t your computer)**
