@@ -1,7 +1,5 @@
 # Realsense Depth Data Recording Pipeline
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaahirG/DepthDataApplication/blob/master/DepthCNN.ipynb)
 
 ## Architecture
